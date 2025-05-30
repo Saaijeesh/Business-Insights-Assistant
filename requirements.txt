@@ -1,0 +1,14 @@
+PyPDF2
+langchain
+langchain-openai
+langchain-community
+langchain-core
+python-dotenv
+pandas
+google-cloud-firestore
+faiss-cpu
+streamlit
+langsmith
+openevals
+
+
